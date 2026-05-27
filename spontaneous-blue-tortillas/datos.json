@@ -1,0 +1,34 @@
+[
+ {
+   "id": "1",
+   "titulo": "LECHE NEVADA",
+   "ingredientes": "(4 porciones)\n - 1 litro de leche (semidescremada o sin azúcar)\n- 4 claras de huevo\n - 4 cdas. de azúcar blanca o endulzante natural al gusto \n- Canela en polvo\n- Cáscara de limón (opcional)",
+    "pasos": " 1. Calienta leche con canela y cáscara de limón. Cuando hierva, baja fuego\n 2. Bate claras a punto de nieve con la mitad del azúcar o endulzante.\n 3. Forma nieve con claras y cocina en leche 2 min. por lado.\n 4. Retira las claras y endulza la leche con el resto de azúcar o endulzante. \n5. Sirve leche con las claras encima y espolvorea canela.",
+    "img": "https://recetasdechile.com/wp-content/uploads/2022/02/Receta-de-leche-nevada-768x709.jpg.webp",
+    "recetario": "<Link href='/lechenevada'>Ver receta</Link>"
+ },
+ {
+   "id": "2",
+   "titulo": "TRUFAS DE CAVA Y FRAMBUESA",
+   "ingredientes": "(12 unidades)\n - 100 g Chocolate negro 70% de cacao\n - 80 ml Nata líquida\n- 30 ml Cava\n - 25 g Azúcar glasé \n - 5 g Mantequilla \n - 25 g Frambuesas deshidratadas \n- Cacao puro en polvo",
+    "pasos": " 1. Calentamos la nata junto al azúcar hasta que hierva.\n 2. En un cuenco troceamos el chocolate y vertemos la nata caliente por encima mientras removemos con unas varillas para que el chocolate se deshaga completamente.\n 3. Agregamos la mantequilla y el cava mezclamos totalmente.\n 4. Vertemos la mezcla en una bandeja, echamos la frambuesa, removemos y refrigeramos hasta que la masa se haya endurecido (cuanta más delgada sea la superficie antes se enfría).\n 5. Una vez tengamos la masa cuajada, hacemos bolitas de igual tamaño con una cuchara y damos forma de bolita perfecta con las manos, teniendo cuidado de no dar mucho calor a la masa.\n 6. Por último rebozamos cada trufa en lo que prefiramos: cacao en polvo, virutas, bolitas de anís, etc. Refrigeramos hasta el momento de tomar en un recipiente hermético o túper para que el chocolate no se humedezca.",
+    "img": "https://i.blogs.es/fc98b8/trufas/1366_2000.jpg",
+    "recetario": "<Link href='/lechenevada'>Ver receta</Link>"
+ },
+ {
+   "id": "3",
+   "titulo": "TARTA DE LA ABUELA",
+   "ingredientes": "(6 personas)\n - 1 l Leche \n - 1 Piel de limón\n - 2 Canela en rama\n - 200 g Azúcar\n - 10 Maizena cucharadas soperas rasas\n - 6 Yemas de huevo\n - 200 g Chocolate fondant\n - 200 ml Nata líquida 35% materia grasa\n - 50 g Mantequilla\n - Leche suficiente para remojar las galletas\n - 3 paquetes Galletas cuadradas",
+   "pasos": "1. Empezamos hirviendo la leche la noche anterior, con la piel de limón y las ramas de canela. La dejamos infusionar toda la noche para intensificar su sabor.\n 2. En un cazo deshacemos 200 gr de azúcar en un poco de la leche (previamente colada), añadimos las yemas de huevo y la maizena.\n 3. Colocamos el cazo al fuego y añadimos la leche poco a poco y dejamos hervir la leche hasta que la mezcla espese, siempre removiendo para que no se pegue. La reservamos, cubriendo el cazo con papel film.\n 4. Ponemos una capa de galletas remojadas ligeramente en leche en el fondo del molde. Por encima repartimos la crema pastelera y sobre ella ponemos dos capas más de galletas remojadas ligeramente en leche.\n 5.  Metemos el molde en la nevera.\n 6.Mientras preparamos la cobertura de chocolate. Ponemos la nata y el chocolate en un cazo a fuego lento hasta que se derrita el chocolate. Retiramos el cazo del fuego y añadimos la mantequilla. Dejamos que se temple y cuando esté casi fría la vertemos en el molde.\n 7. Guardar en la nevera como mínimo 2 horas, mejor toda la noche.",
+    "img": "https://i.blogs.es/454215/tarta_abuela/1366_2000.jpg",
+    "recetario": "<Link href='/lechenevada'>Ver receta</Link>"
+ },
+ {
+   "id": "4",
+   "titulo": "HELADO DE DULCE DE LECHE SIN HELADERA",
+   "ingredientes": "(8 personas)\n - 400 g Dulce de leche\n - 350 ml Leche\n - 200 ml Nata líquida para montar",
+   "pasos": "1. En una cacerola, calentamos el dulce de leche y la leche a fuego lento. Cuando se hayan integrado bien los dos ingredientes, retiramos la cacerola del fuego y dejamos atemperar antes de introducir en la nevera hasta su completo enfriado.\n 2. Montamos la nata líquida con ayuda de unas varillas eléctricas. Para que monte bien, la nata ha de estar muy fría. Os recomiendo introducirla en el congelador unos 15 minutos antes de comenzar a batir junto con el recipiente en el que lo haremos.\n 3. Incorporamos la mezcla del dulce de leche (una vez fría) a la nata montada y removemos bien, pero suavemente, hasta obtener una crema homogénea.\n 4. Vertemos la mezcla en un recipiente apto para congelador y lo introducimos en el mismo durante, al menos, cinco o seis horas antes de servir..",
+    "img": "https://i.blogs.es/de0ebd/heladodulcedeleche_1024_ma/1366_2000.jpg",
+    "recetario": "<Link href='/lechenevada'>Ver receta</Link>"
+ }
+]
